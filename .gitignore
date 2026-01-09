@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+_site/
+
+# Logs
+*.log
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+*.exe
